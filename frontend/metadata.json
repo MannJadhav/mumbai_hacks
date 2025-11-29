@@ -1,0 +1,5 @@
+{
+  "name": "GraphMind Explorer",
+  "description": "A non-linear, graph-based conversational interface where answers branch into explorable nodes using Gemini 2.5.",
+  "requestFramePermissions": []
+}
