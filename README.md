@@ -4,7 +4,7 @@ An end-to-end AI fact-checking and investigative research ecosystem consisting o
 1. **Chrome Manifest V3 Extension (`orion-extension/` — Leo Assistant):** An in-page slide-out sidebar with voice/text input that verifies claims while browsing and renders structured verdict cards.
 2. **Hierarchical Multi-Agent Backend (`backend/` — FastAPI + Agno + Gemini):** A dual-endpoint Python API (`POST /verify` and `POST /generate`) combining multi-source investigative auditing with domain-routed specialist agents (Finance, Politics, Sports) backed by live DuckDuckGo web search.
 3. **Non-Linear Knowledge Graph Workspace (`frontend/` — GraphMind):** A React + TypeScript + D3 force-directed graph canvas that ingests extension audit reports via URL parameters, traces reasoning provenance via Breadth-First Search (BFS), and supports multi-node context synthesis and subgraph clustering.
-
+4. **Working Demo:** Link: https://youtu.be/OzpUx326MaQ
 ---
 
 ## Complete System Architecture Diagram
